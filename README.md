@@ -1,1 +1,1 @@
-My decision tree algorithm
+My Decision Tree Algorithm
